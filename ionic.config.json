@@ -1,0 +1,8 @@
+{
+  "name": "deliveryticket",
+  "app_id": "016743cf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
